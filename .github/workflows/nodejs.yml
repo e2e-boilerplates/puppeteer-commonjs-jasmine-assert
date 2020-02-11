@@ -1,4 +1,4 @@
-name: puppeteer-commonjs-jasmine-expect
+name: puppeteer-commonjs-jasmine-assert
 
 on: 
   push:
