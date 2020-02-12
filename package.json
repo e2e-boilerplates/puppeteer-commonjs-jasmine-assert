@@ -1,5 +1,5 @@
 {
-  "name": "puppeteer-commonjs-jasmine",
+  "name": "puppeteer-commonjs-jasmine-assert",
   "version": "1.0.0",
   "description": "Puppeteer end-to-end test automation boilerplate project. Using commonjs and jasmine.",
   "scripts": {
