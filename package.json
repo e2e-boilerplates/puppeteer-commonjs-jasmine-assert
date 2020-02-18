@@ -1,17 +1,19 @@
 {
   "name": "puppeteer-commonjs-jasmine-assert",
   "version": "1.0.0",
-  "description": "Puppeteer end-to-end test automation boilerplate project. Using commonjs and jasmine.",
+  "description": "Puppeteer end-to-end test automation boilerplate, using CommonJS, Jasmine and Assert.",
   "scripts": {
-    "test": "npx jasmine",
-    "lint": "npx eslint --ext .js ./ --fix"
+    "lint": "npx eslint --ext .js ./ --fix",
+    "test": "npx jasmine"
   },
   "keywords": [
     "puppeteer",
     "commonjs",
     "jasmine",
     "boilerplate",
-    "example"
+    "example",
+    "e2e",
+    "e2e test"
   ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
