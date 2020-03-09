@@ -6,7 +6,7 @@ Puppeteer end-to-end test automation boilerplate, using Commonjs, Jasmine and As
 
 ## Getting Started
 
-    	git clone git@github.com:e2e-boilerplate/puppeteer-commonjs-jasmine-assert.git
-    	cd puppeteer-commonjs-jasmine-assert
-    	npm install
-    	npm run test
+    	1. git clone git@github.com:e2e-boilerplate/puppeteer-commonjs-jasmine-assert.git
+    	2. cd puppeteer-commonjs-jasmine-assert
+    	3. npm install
+    	4. npm run test
